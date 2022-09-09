@@ -42,7 +42,7 @@ body * {
     padding: 30px 35px;
     background: #2f2841;
     border-radius: 20px;
-    box-shadow: 0px 10px 40px #00000056; //primeiro define se a sombra vai para esquerda ou para direita, segundo define se vai para cima ou para baixo, o terceiro valor e o blur.
+    box-shadow: 0px 10px 40px #00000056; /*primeiro define se a sombra vai para esquerda ou para direita, segundo define se vai para cima ou para baixo, o terceiro valor e o blur.*/
 }
 
 .card-login > h1 {
